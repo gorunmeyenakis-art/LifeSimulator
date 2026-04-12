@@ -1,5 +1,11 @@
 # LifeSimulator
-Python ile geliştirilmiş grafik tabanlı yaşam simülasyonu oyunu.
-# LifeSimulator
-Python ile geliştirilmiş grafik tabanlı yaşam simülasyonu oyunu.
-sgy
+
+Python ile gelistirilen basit bir yasam simulasyonu giris projesi.
+
+## Calistirma
+
+```bash
+python3 main.py
+```
+
+Harici Python bagimliligi yoktur.
